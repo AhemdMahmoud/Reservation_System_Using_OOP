@@ -42,7 +42,7 @@
  - [x] ` JavaFX` : JavaFX is used to create the graphical user  ` interface (GUI)` for the program.
 - [x] `LocalDate`: LocalDate is used to represent the check-in and check-out dates for the reservation.
 - [x] `ArrayList`: ArrayList is used to store the list of rooms in the hotel.
-
+## `ABOUT NEW_BRANCH `
  ## I also create `new_branch` and  `updated` version of the main() method that prompts the `user to input` the necessary information for reserving a room and can see this From here [an updated version of the main() method ](https://github.com/AhemdMahmoud/Reservation_System_Using_OOP/tree/user-input)
  
 ## `Credits`
