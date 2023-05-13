@@ -3,6 +3,9 @@
 # Hotel Reservation System
 ### The Hotel Reservation System is a Java program that allows users to reserve hotel rooms for a given date range. The program provides a graphical user interface (GUI) that allows users to input their personal details and select a room for reservation. The program then reserves the selected room and displays the total cost of the reservation.
 
+
+
+
 ## ` Installation `
 
 ### Clone the repository to your local machine:
@@ -39,5 +42,8 @@
  - [x] ` JavaFX` : JavaFX is used to create the graphical user  ` interface (GUI)` for the program.
 - [x] `LocalDate`: LocalDate is used to represent the check-in and check-out dates for the reservation.
 - [x] `ArrayList`: ArrayList is used to store the list of rooms in the hotel.
-Credits
+
+ ## I also create `new_branch` and  `updated` version of the main() method that prompts the `user to input` the necessary information for reserving a room and can see this From here [an updated version of the main() method ](https://github.com/AhemdMahmoud/Reservation_System_Using_OOP/tree/user-input)
+ 
+## `Credits`
 ## The Hotel Reservation System was created by  `Ahmed Mahmoud`  as a project for develope ` my Skills`
