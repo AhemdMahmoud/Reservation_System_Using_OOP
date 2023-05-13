@@ -6,9 +6,9 @@
 
 
 
-## ` Installation `
+# ` Installation `
 
-### Clone the repository to your local machine:
+## Clone the repository to your local machine:
 ### 1- bash Copy code
  `git clone https://github.com/yourusername/hotel-reservation-system.git`
 
